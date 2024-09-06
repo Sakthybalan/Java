@@ -8,6 +8,7 @@ class hello{
         int []num=new int[size];
         for(int i=0;i<size;i=i+1){
             num[i]=scan.nextInt();
+            
         }
         for(int i=0;i<size;i=i+1){
             if(find==i){
